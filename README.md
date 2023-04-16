@@ -1,1 +1,1 @@
-# lab-agile-planning
+Deploy service to the cloud
